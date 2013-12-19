@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.0.2'
+gem 'devise'
+gem 'simple_form'
 
 group :production do
   gem 'pg'
